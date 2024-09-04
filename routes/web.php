@@ -13,7 +13,11 @@ Route::get('/', function () {
 });
 
 
-
+Route::get('/rafi', function () {
+    // return view('rafi');
+    // return h1
+    return "<h1>hello rafi</h1>";
+});
 
 
 Route::middleware('auth')->group(function () {
