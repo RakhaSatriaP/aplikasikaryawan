@@ -16,7 +16,7 @@ Route::get('/', function () {
 Route::get('/rafi', function () {
     // return view('rafi');
     // return h1
-    return "<h1>hello rafi</h1>";
+    return "<h1>hello rafi rakha bener</h1>";
 });
 
 
