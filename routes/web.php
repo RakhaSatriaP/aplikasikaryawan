@@ -18,6 +18,7 @@ Route::get('/rakha', function () {
     // return h1
     return "<h1>hello  rakha </h1>";
     // hallow world
+    // komentar lain
 });
 
 
